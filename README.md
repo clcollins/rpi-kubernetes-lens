@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Manage your Kubernetes cluster with Lens
 
 As more workloads are migrated to containerized environments, it becomes a challenge to manage larger numbers of containers and the connections between them and other systems. As the scale and complexity of a containerized environment increases past the ability of a human to manage, container orchestration platforms, such as Kubernetes, become increasingly important. Such platforms, however, come with their own management challenges, requiring metrics and observability, and a user-friendly interface to present the huge amount of complexity they encompass.
